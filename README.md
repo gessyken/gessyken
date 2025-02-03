@@ -1,30 +1,28 @@
-# 👋 Hi, I’m @gessyken
+# 👋 Hi, I’m @gessyken  
 
-## 🌟 About Me
-I’m a **fullstack developer** with expertise in **backend development** using **Laravel** and building dynamic **frontend interfaces** with **React**. Passionate about crafting **RESTful APIs**, **SSR solutions**, and **scalable applications**, I’m always exploring new tools like **GraphQL**, **Redis**, and **RabbitMQ** to stay ahead.
-
----
-
-## 🔧 Skills & Tools
-- **Backend**: Laravel (APIs, SSR, Breeze, Sanctum), API integrations (Twilio, geolocation, QR codes)  
-- **Frontend**: React.js (state management, responsive UI), Vue.js (components-based design)  
-- **Fullstack**: Multiplatform development (Flutter), SaaS architectures  
+## 🚀 About Me  
+**Fullstack developer** specialized in **Laravel (backend, APIs, SSR)** and **React (frontend, UI/UX)**. Passionate about **scalable applications**, **SaaS**, and always exploring new tools like **GraphQL, Redis, and RabbitMQ**.  
 
 ---
 
-## 💡 Current Projects
-- **KEN-ACADEMY**: Online learning platform with Laravel & React  
-- **SAFECAB**: Secure taxi booking with geolocation and QR code features  
-- **Store Pro**: SaaS solution for managing electronic stores  
+## 🔧 Skills  
+- **Backend**: Laravel (APIs, SSR, Sanctum), API integrations (Twilio, geolocation, QR codes)  
+- **Frontend**: React.js (state management, UI), Vue.js  
+- **Fullstack**: Flutter, SaaS architectures  
 
 ---
 
-## 🌍 Collaboration & Contact
-- 💞️ Open to collaborating on **web apps**, **SaaS platforms**, and **API-driven projects**  
-- 📫 Reach me at **gessyken@gmail.com**
+## 💡 Projects  
+- **KEN-ACADEMY** – Online learning platform (Laravel + React)  
+- **SAFECAB** – Secure taxi booking (QR codes, geolocation)  
+- **Store Pro** – SaaS for electronic store management  
 
 ---
 
-## ⚡ Fun Fact
-I love exploring new tech, sharing knowledge, and brainstorming innovative solutions!  
-😄 Pronouns: Ken, Ken-Code  
+## 🌍 Collaboration & Contact  
+💼 Open to **SaaS, API-driven, and fullstack projects**  
+📩 Reach me at **gessyken@gmail.com**  
+
+---
+
+😄 **Pronouns**: Ken, Ken-Code  
