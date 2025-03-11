@@ -1,28 +1,22 @@
 # 👋 Hi, I’m @gessyken  
 
-## 🚀 About Me  
-**Fullstack developer** specialized in **Laravel (backend, APIs, SSR)** and **React (frontend, UI/UX)**. Passionate about **scalable applications**, **SaaS**, and always exploring new tools like **GraphQL, Redis, and RabbitMQ**.  
+🚀 **Fullstack Developer** | **Laravel & React** | Passionate about **SaaS, APIs & Scalable Solutions**  
 
----
+💡 **What I Do**  
+- **Backend**: Laravel (APIs, SSR, Auth), Redis, RabbitMQ, GraphQL  
+- **Frontend**: React.js (State Management, UI/UX), Vue.js  
+- **Fullstack**: SaaS, Flutter (Mobile), Cloud Services  
 
-## 🔧 Skills  
-- **Backend**: Laravel (APIs, SSR, Sanctum), API integrations (Twilio, geolocation, QR codes)  
-- **Frontend**: React.js (state management, UI), Vue.js  
-- **Fullstack**: Flutter, SaaS architectures  
-
----
-
-## 💡 Projects  
-- **KEN-ACADEMY** – Online learning platform (Laravel + React)  
-- **SAFECAB** – Secure taxi booking (QR codes, geolocation)  
+🔥 **Projects**  
+- **KEN-ACADEMY** – Online learning platform (MVP in Laravel & React)  
+- **SAFECAB** – Secure taxi booking app (QR codes, geolocation)  
 - **Store Pro** – SaaS for electronic store management  
+- **SAVE ME** – Emergency alert app with geolocation  
+- **Stage Manager** – Internship management system (payments, attendance, evaluations)  
+- **WorkTime** – Employee attendance tracking via QR codes & local network  
 
----
-
-## 🌍 Collaboration & Contact  
-💼 Open to **SaaS, API-driven, and fullstack projects**  
+💬 Open to **collaborations** in **SaaS, API-driven apps & AI solutions**  
 📩 Reach me at **gessyken@gmail.com**  
 
----
-
+⚡ **Fun Fact**: I turn real-world problems into tech solutions & love sharing knowledge!  
 😄 **Pronouns**: Ken, Ken-Code  
