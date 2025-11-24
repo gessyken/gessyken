@@ -1,13 +1,12 @@
-# 👋 @gessyken
+Full-Stack Developer — Laravel, React & Modern Web Technologies
 
-**Fullstack Developer** • Laravel & React • SaaS, APIs & Scalable Solutions
+Building scalable SaaS platforms, high-quality APIs, and seamless user experiences.
 
-## Key Skills
-- **Backend**: Laravel (APIs, Auth, Mail, Queue), Redis, RabbitMQ, GraphQL
-- **Frontend**: React.js (Hooks, Context), Vue.js, TailwindCSS
-- **Mobile**: Flutter (Android & iOS)
-- **DevOps & Tools**: Docker, GitHub Actions (CI/CD), Payment APIs, Monitoring/Logging
+Core Skills
+	•	Backend: Laravel (REST APIs, Authentication, Mail, Queues), Redis, RabbitMQ, GraphQL
+	•	Frontend: React.js (Hooks, Context API), Vue.js, TailwindCSS
+	•	Mobile: Flutter (Android & iOS)
+	•	DevOps & Tools: Docker, GitHub Actions (CI/CD), Payment Integrations, Monitoring & Logging
 
-📩 gessyken@gmail.com  
-🌍 Yaounde, Cameroon  
-😄 Pronouns: Ken / Ken-Code
+📩 contact@kencode.dev
+📍 Yaoundé, Cameroon
