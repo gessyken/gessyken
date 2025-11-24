@@ -9,4 +9,5 @@ Core Skills
 	•	DevOps & Tools: Docker, GitHub Actions (CI/CD), Payment Integrations, Monitoring & Logging
 
 📩 contact@kencode.dev
+
 📍 Yaoundé, Cameroon
